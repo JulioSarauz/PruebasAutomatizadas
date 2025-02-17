@@ -1,4 +1,4 @@
-#Pruebas automatrizadas de RELATOS DE PAPEL 
+# Pruebas automatrizadas de RELATOS DE PAPEL 
 
 | Tipo de prueba |Herramienta |Descripción Prueba|Interface / API |Asignado|
 |----------------|------------|------------------|----------------|--------|
